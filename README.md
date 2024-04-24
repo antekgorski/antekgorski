@@ -2,6 +2,15 @@
 
 <!--### Hi there 👋-->
 ![Screenshot](hello.jpg)
+
+<span>
+<img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=antekgorski&show_icons=true&locale=en&layout=compact&theme=transparent" alt="antekgorski" /> 
+</span>
+
+<span>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=antekgorski&show_icons=true&locale=en&theme=transparent&hide=prs,issues,contribs" alt="antekgorski" />
+</span>
+
 <!--
 **antekgorski/antekgorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
