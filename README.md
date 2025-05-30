@@ -6,10 +6,10 @@
 - 📫  agorski@student.42warsaw.pl
 
 
-<p style="text-align: center;"><span>
+<!--<p style="text-align: center;"><span>
 <img  height="150px" src="https://github-readme-stats.vercel.app/api/top-langs?username=antekgorski&show_icons=true&locale=en&layout=compact&theme=transparent" alt="antekgorski" /> 
 </span></p>
-
+-->
 <!--
 **antekgorski/antekgorski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
