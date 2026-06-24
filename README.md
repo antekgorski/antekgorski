@@ -5,7 +5,7 @@
 
 - 📫  agorski@student.42warsaw.pl
 
-- [Portfolio](https://statki.bieda.it)
+- [![Portfolio](https://statki.bieda.it)
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,clion,cmake,docker,git,github,linux,nginx,gmail,obsidian,vim,vscode,linkedin,windows,md,html,ubuntu,debian)](https://skillicons.dev)
 <!--<p style="text-align: center;"><span>
